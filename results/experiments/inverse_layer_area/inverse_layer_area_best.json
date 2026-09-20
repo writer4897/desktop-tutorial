@@ -1,0 +1,64 @@
+{
+  "split": [
+    6,
+    8
+  ],
+  "style": "side_rows",
+  "balanced": false,
+  "mode": "area_first",
+  "gene": {
+    "goods_order": [
+      "G5",
+      "G4",
+      "G2",
+      "G1",
+      "G3"
+    ],
+    "label_order": [
+      "standard",
+      "directed",
+      "fragile"
+    ],
+    "volume_weight": 0.8,
+    "base_weight": 0.4,
+    "height_weight": 80.0,
+    "center_points": true
+  },
+  "score": 16087.419964471195,
+  "placed": 284,
+  "remaining": 16,
+  "remaining_counts": {
+    "G3": 16
+  },
+  "first_count": 122,
+  "second_count": 162,
+  "first_goods": {
+    "G2": 36,
+    "G3": 6,
+    "G5": 50,
+    "G4": 30
+  },
+  "second_goods": {
+    "G2": 64,
+    "G3": 8,
+    "G4": 10,
+    "G1": 80
+  },
+  "avg_volume_utilization": 0.692158583863653,
+  "avg_weight_utilization": 0.3225,
+  "max_support_pressure_kg_per_m2": 156.25,
+  "validation_error_count": 0,
+  "first_layer_metrics": {
+    "max_standard_layer_z": 195,
+    "max_standard_layer_area_cm2": 21000,
+    "max_high_standard_layer_area_cm2": 14000
+  },
+  "second_layer_metrics": {
+    "max_standard_layer_z": 210,
+    "max_standard_layer_area_cm2": 43750,
+    "max_high_standard_layer_area_cm2": 33800
+  },
+  "g3_total": 14,
+  "g3_floor": 0,
+  "g3_platform": 14
+}

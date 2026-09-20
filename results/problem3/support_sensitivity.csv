@@ -1,0 +1,7 @@
+﻿load_limit_kg_per_m2,max_observed_pressure,fixed_coordinates_feasible
+100,150.0,否
+150,150.0,是
+200,150.0,是
+300,150.0,是
+400,150.0,是
+500,150.0,是

@@ -1,0 +1,106 @@
+{
+  "min_vehicle": {
+    "vehicle_count": 2,
+    "total_cost": 1150,
+    "total_volume_cm3": 28735000,
+    "total_weight_kg": 4110,
+    "avg_volume_utilization": 0.5883183823850753,
+    "avg_weight_utilization": 0.2843,
+    "avg_combined_fullness": 0.40590735295403013,
+    "vehicles": [
+      {
+        "vehicle_id": "min_vehicle-1-V1",
+        "vehicle_code": "V1",
+        "vehicle_name": "车型1",
+        "strategy": "volume",
+        "cost": 450,
+        "stats": {
+          "item_count": 134,
+          "volume_cm3": 17116000,
+          "weight_kg": 2364,
+          "volume_utilization": 0.8942809074474644,
+          "weight_utilization": 0.394,
+          "combined_fullness": 0.5941123629789857
+        },
+        "goods_counts": {
+          "G4": 40,
+          "G5": 50,
+          "G1": 28,
+          "G2": 16
+        }
+      },
+      {
+        "vehicle_id": "min_vehicle-2-V2",
+        "vehicle_code": "V2",
+        "vehicle_name": "车型2",
+        "strategy": "constraint_volume",
+        "cost": 700,
+        "stats": {
+          "item_count": 166,
+          "volume_cm3": 11619000,
+          "weight_kg": 1746,
+          "volume_utilization": 0.28235585732268614,
+          "weight_utilization": 0.1746,
+          "combined_fullness": 0.21770234292907448
+        },
+        "goods_counts": {
+          "G3": 30,
+          "G1": 52,
+          "G2": 84
+        }
+      }
+    ]
+  },
+  "min_cost": {
+    "vehicle_count": 2,
+    "total_cost": 1150,
+    "total_volume_cm3": 28735000,
+    "total_weight_kg": 4110,
+    "avg_volume_utilization": 0.5883183823850753,
+    "avg_weight_utilization": 0.2843,
+    "avg_combined_fullness": 0.40590735295403013,
+    "vehicles": [
+      {
+        "vehicle_id": "min_cost-1-V1",
+        "vehicle_code": "V1",
+        "vehicle_name": "车型1",
+        "strategy": "volume",
+        "cost": 450,
+        "stats": {
+          "item_count": 134,
+          "volume_cm3": 17116000,
+          "weight_kg": 2364,
+          "volume_utilization": 0.8942809074474644,
+          "weight_utilization": 0.394,
+          "combined_fullness": 0.5941123629789857
+        },
+        "goods_counts": {
+          "G4": 40,
+          "G5": 50,
+          "G1": 28,
+          "G2": 16
+        }
+      },
+      {
+        "vehicle_id": "min_cost-2-V2",
+        "vehicle_code": "V2",
+        "vehicle_name": "车型2",
+        "strategy": "constraint_volume",
+        "cost": 700,
+        "stats": {
+          "item_count": 166,
+          "volume_cm3": 11619000,
+          "weight_kg": 1746,
+          "volume_utilization": 0.28235585732268614,
+          "weight_utilization": 0.1746,
+          "combined_fullness": 0.21770234292907448
+        },
+        "goods_counts": {
+          "G3": 30,
+          "G1": 52,
+          "G2": 84
+        }
+      }
+    ]
+  }
+}

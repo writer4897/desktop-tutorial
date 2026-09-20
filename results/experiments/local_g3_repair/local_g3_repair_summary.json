@@ -1,0 +1,58 @@
+{
+  "reports": [
+    {
+      "vehicle_id": "inverse-V1-1",
+      "rect": [
+        0,
+        40,
+        150,
+        160
+      ],
+      "z_window": [
+        100,
+        218
+      ],
+      "removed_count": 20,
+      "placed_count": 150,
+      "leftover_count": 0,
+      "leftover_counts": {},
+      "g3_added": true,
+      "validation_error_count": 0
+    },
+    {
+      "vehicle_id": "inverse-V1-2",
+      "rect": [
+        0,
+        40,
+        150,
+        160
+      ],
+      "z_window": [
+        100,
+        218
+      ],
+      "removed_count": 20,
+      "placed_count": 150,
+      "leftover_count": 0,
+      "leftover_counts": {},
+      "g3_added": true,
+      "validation_error_count": 0
+    }
+  ],
+  "placed": 300,
+  "remaining": 0,
+  "goods_counts": {
+    "G2": 100,
+    "G3": 30,
+    "G4": 40,
+    "G5": 50,
+    "G1": 80
+  },
+  "avg_volume_utilization": 0.7506766147319143,
+  "avg_weight_utilization": 0.3425,
+  "max_support_pressure_kg_per_m2": 192.0,
+  "validation_error_count": 0,
+  "g3_total": 30,
+  "g3_floor": 0,
+  "g3_platform": 30
+}

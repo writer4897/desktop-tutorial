@@ -1,0 +1,36 @@
+{
+  "split": [
+    2,
+    2
+  ],
+  "placed": 286,
+  "remaining": 14,
+  "remaining_counts": {
+    "G3": 14
+  },
+  "first_count": 143,
+  "second_count": 143,
+  "first_goods": {
+    "G4": 20,
+    "G2": 50,
+    "G3": 8,
+    "G5": 25,
+    "G1": 40
+  },
+  "second_goods": {
+    "G4": 20,
+    "G2": 50,
+    "G3": 8,
+    "G5": 25,
+    "G1": 40
+  },
+  "avg_volume_utilization": 0.6994733377221857,
+  "avg_weight_utilization": 0.325,
+  "first_volume_utilization": 0.6994733377221857,
+  "second_volume_utilization": 0.6994733377221857,
+  "max_support_pressure_kg_per_m2": 150.0,
+  "validation_error_count": 0,
+  "g3_total": 16,
+  "g3_floor": 0,
+  "g3_platform": 16
+}

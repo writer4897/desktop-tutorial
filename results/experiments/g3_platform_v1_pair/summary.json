@@ -1,0 +1,5500 @@
+{
+  "split": [
+    15,
+    15
+  ],
+  "style": "checker",
+  "gene": {
+    "goods_order": [
+      "G5",
+      "G4",
+      "G2",
+      "G1",
+      "G3"
+    ],
+    "label_order": [
+      "standard",
+      "fragile",
+      "directed"
+    ],
+    "volume_weight": 0.8,
+    "base_weight": 0.4,
+    "height_weight": 100.0,
+    "center_points": true
+  },
+  "placed": 264,
+  "remaining": 36,
+  "remaining_counts": {
+    "G4": 36
+  },
+  "first_count": 149,
+  "second_count": 115,
+  "first_volume_utilization": 0.5443483076794466,
+  "second_volume_utilization": 0.5055801122292235,
+  "validation_error_count": 0,
+  "elapsed_seconds": 586.0926241999987,
+  "trial_count": 150,
+  "trials": [
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 64,
+        "G2": 38,
+        "G4": 8,
+        "G5": 8
+      },
+      "first_count": 91,
+      "second_count": 91,
+      "first_volume_utilization": 0.5166436774402542,
+      "second_volume_utilization": 0.5166436774402542,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 224,
+      "remaining": 76,
+      "remaining_counts": {
+        "G1": 52,
+        "G4": 24
+      },
+      "first_count": 126,
+      "second_count": 98,
+      "first_volume_utilization": 0.48630051098780525,
+      "second_volume_utilization": 0.5184854279653489,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 188,
+      "remaining": 112,
+      "remaining_counts": {
+        "G1": 80,
+        "G2": 16,
+        "G4": 8,
+        "G5": 8
+      },
+      "first_count": 94,
+      "second_count": 94,
+      "first_volume_utilization": 0.5116931565252829,
+      "second_volume_utilization": 0.5116931565252829,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 249,
+      "remaining": 51,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 11
+      },
+      "first_count": 146,
+      "second_count": 103,
+      "first_volume_utilization": 0.4992058267239307,
+      "second_volume_utilization": 0.445390137621869,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 64,
+        "G2": 38,
+        "G4": 8,
+        "G5": 8
+      },
+      "first_count": 91,
+      "second_count": 91,
+      "first_volume_utilization": 0.5166436774402542,
+      "second_volume_utilization": 0.5166436774402542,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 240,
+      "remaining": 60,
+      "remaining_counts": {
+        "G4": 22,
+        "G5": 38
+      },
+      "first_count": 144,
+      "second_count": 96,
+      "first_volume_utilization": 0.5431857842983584,
+      "second_volume_utilization": 0.4916951419584731,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 251,
+      "remaining": 49,
+      "remaining_counts": {
+        "G1": 15,
+        "G4": 34
+      },
+      "first_count": 140,
+      "second_count": 111,
+      "first_volume_utilization": 0.5017137423325705,
+      "second_volume_utilization": 0.5168657324681024,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 216,
+      "remaining": 84,
+      "remaining_counts": {
+        "G1": 26,
+        "G4": 8,
+        "G5": 50
+      },
+      "first_count": 117,
+      "second_count": 99,
+      "first_volume_utilization": 0.5305547718319279,
+      "second_volume_utilization": 0.521881563685382,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 235,
+      "remaining": 65,
+      "remaining_counts": {
+        "G2": 16,
+        "G4": 22,
+        "G5": 27
+      },
+      "first_count": 141,
+      "second_count": 94,
+      "first_volume_utilization": 0.5417881438289601,
+      "second_volume_utilization": 0.5116931565252829,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 143,
+      "second_count": 117,
+      "first_volume_utilization": 0.5367723126116806,
+      "second_volume_utilization": 0.4629977951241941,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 48,
+        "G2": 40,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 91,
+      "second_count": 91,
+      "first_volume_utilization": 0.4792469983385059,
+      "second_volume_utilization": 0.4792469983385059,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 229,
+      "remaining": 71,
+      "remaining_counts": {
+        "G1": 39,
+        "G4": 32
+      },
+      "first_count": 116,
+      "second_count": 113,
+      "first_volume_utilization": 0.4716318170893549,
+      "second_volume_utilization": 0.481741851886684,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 188,
+      "remaining": 112,
+      "remaining_counts": {
+        "G1": 80,
+        "G2": 2,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 94,
+      "second_count": 94,
+      "first_volume_utilization": 0.4624883747661891,
+      "second_volume_utilization": 0.4624883747661891,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 242,
+      "remaining": 58,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 18
+      },
+      "first_count": 137,
+      "second_count": 105,
+      "first_volume_utilization": 0.46534896600729386,
+      "second_volume_utilization": 0.44413617981754916,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 48,
+        "G2": 40,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 91,
+      "second_count": 91,
+      "first_volume_utilization": 0.4792469983385059,
+      "second_volume_utilization": 0.4792469983385059,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 226,
+      "remaining": 74,
+      "remaining_counts": {
+        "G4": 28,
+        "G5": 46
+      },
+      "first_count": 129,
+      "second_count": 97,
+      "first_volume_utilization": 0.48839044066167175,
+      "second_volume_utilization": 0.4311263675977303,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 244,
+      "remaining": 56,
+      "remaining_counts": {
+        "G1": 21,
+        "G4": 35
+      },
+      "first_count": 133,
+      "second_count": 111,
+      "first_volume_utilization": 0.48290437526777225,
+      "second_volume_utilization": 0.500564281011944,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 227,
+      "remaining": 73,
+      "remaining_counts": {
+        "G1": 7,
+        "G4": 16,
+        "G5": 50
+      },
+      "first_count": 118,
+      "second_count": 109,
+      "first_volume_utilization": 0.4992058267239307,
+      "second_volume_utilization": 0.5243894792940218,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 223,
+      "remaining": 77,
+      "remaining_counts": {
+        "G2": 17,
+        "G4": 28,
+        "G5": 32
+      },
+      "first_count": 129,
+      "second_count": 94,
+      "first_volume_utilization": 0.48839044066167175,
+      "second_volume_utilization": 0.4624883747661891,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 245,
+      "remaining": 55,
+      "remaining_counts": {
+        "G2": 13,
+        "G4": 40,
+        "G5": 2
+      },
+      "first_count": 129,
+      "second_count": 116,
+      "first_volume_utilization": 0.48839044066167175,
+      "second_volume_utilization": 0.4716318170893549,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 131,
+      "second_count": 129,
+      "first_volume_utilization": 0.5209149712112188,
+      "second_volume_utilization": 0.47885513652465594,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 264,
+      "remaining": 36,
+      "remaining_counts": {
+        "G4": 36
+      },
+      "first_count": 149,
+      "second_count": 115,
+      "first_volume_utilization": 0.5443483076794466,
+      "second_volume_utilization": 0.5055801122292235,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 149,
+      "second_count": 111,
+      "first_volume_utilization": 0.5443483076794466,
+      "second_volume_utilization": 0.4554218000564281,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 244,
+      "remaining": 56,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 16
+      },
+      "first_count": 132,
+      "second_count": 112,
+      "first_volume_utilization": 0.44653959894249556,
+      "second_volume_utilization": 0.4729772093169065,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 131,
+      "second_count": 129,
+      "first_volume_utilization": 0.5209149712112188,
+      "second_volume_utilization": 0.47885513652465594,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 225,
+      "remaining": 75,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 35
+      },
+      "first_count": 150,
+      "second_count": 75,
+      "first_volume_utilization": 0.5363935128582923,
+      "second_volume_utilization": 0.28782250227279854,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 241,
+      "remaining": 59,
+      "remaining_counts": {
+        "G1": 7,
+        "G4": 37,
+        "G5": 15
+      },
+      "first_count": 120,
+      "second_count": 121,
+      "first_volume_utilization": 0.43776189431225637,
+      "second_volume_utilization": 0.49805636540330417,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 244,
+      "remaining": 56,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 16
+      },
+      "first_count": 132,
+      "second_count": 112,
+      "first_volume_utilization": 0.44653959894249556,
+      "second_volume_utilization": 0.4729772093169065,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 237,
+      "remaining": 63,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 23
+      },
+      "first_count": 150,
+      "second_count": 87,
+      "first_volume_utilization": 0.5363935128582923,
+      "second_volume_utilization": 0.34801247688015297,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        15,
+        15
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 237,
+      "remaining": 63,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 23
+      },
+      "first_count": 150,
+      "second_count": 87,
+      "first_volume_utilization": 0.5363935128582923,
+      "second_volume_utilization": 0.34801247688015297,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 167,
+      "remaining": 133,
+      "remaining_counts": {
+        "G1": 73,
+        "G2": 40,
+        "G5": 20
+      },
+      "first_count": 93,
+      "second_count": 74,
+      "first_volume_utilization": 0.5702373115144675,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 212,
+      "remaining": 88,
+      "remaining_counts": {
+        "G1": 73,
+        "G4": 15
+      },
+      "first_count": 138,
+      "second_count": 74,
+      "first_volume_utilization": 0.5738946884437338,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 172,
+      "remaining": 128,
+      "remaining_counts": {
+        "G1": 80,
+        "G2": 28,
+        "G5": 20
+      },
+      "first_count": 98,
+      "second_count": 74,
+      "first_volume_utilization": 0.5713345245932474,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 246,
+      "remaining": 54,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 14
+      },
+      "first_count": 162,
+      "second_count": 84,
+      "first_volume_utilization": 0.5651169838134946,
+      "second_volume_utilization": 0.36443148688046645,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 167,
+      "remaining": 133,
+      "remaining_counts": {
+        "G1": 73,
+        "G2": 40,
+        "G5": 20
+      },
+      "first_count": 93,
+      "second_count": 74,
+      "first_volume_utilization": 0.5702373115144675,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G4": 14,
+        "G5": 50
+      },
+      "first_count": 162,
+      "second_count": 74,
+      "first_volume_utilization": 0.6102594647690105,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 234,
+      "remaining": 66,
+      "remaining_counts": {
+        "G1": 46,
+        "G4": 20
+      },
+      "first_count": 160,
+      "second_count": 74,
+      "first_volume_utilization": 0.6127673803776503,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 194,
+      "remaining": 106,
+      "remaining_counts": {
+        "G1": 56,
+        "G5": 50
+      },
+      "first_count": 120,
+      "second_count": 74,
+      "first_volume_utilization": 0.5751486462480537,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 229,
+      "remaining": 71,
+      "remaining_counts": {
+        "G2": 17,
+        "G4": 14,
+        "G5": 40
+      },
+      "first_count": 155,
+      "second_count": 74,
+      "first_volume_utilization": 0.6215581470683511,
+      "second_volume_utilization": 0.46474811122605725,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 165,
+      "second_count": 95,
+      "first_volume_utilization": 0.6320339195586069,
+      "second_volume_utilization": 0.36773618817726783,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 187,
+      "remaining": 113,
+      "remaining_counts": {
+        "G1": 46,
+        "G2": 38,
+        "G4": 12,
+        "G5": 17
+      },
+      "first_count": 92,
+      "second_count": 95,
+      "first_volume_utilization": 0.5813008767254982,
+      "second_volume_utilization": 0.4243994064599726,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 228,
+      "remaining": 72,
+      "remaining_counts": {
+        "G1": 42,
+        "G4": 30
+      },
+      "first_count": 132,
+      "second_count": 96,
+      "first_volume_utilization": 0.5601011525962152,
+      "second_volume_utilization": 0.40706605222734255,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 197,
+      "remaining": 103,
+      "remaining_counts": {
+        "G1": 74,
+        "G4": 12,
+        "G5": 17
+      },
+      "first_count": 99,
+      "second_count": 98,
+      "first_volume_utilization": 0.5736856954763472,
+      "second_volume_utilization": 0.4135448342163286,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 231,
+      "remaining": 69,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 29
+      },
+      "first_count": 156,
+      "second_count": 75,
+      "first_volume_utilization": 0.5350219965098174,
+      "second_volume_utilization": 0.31928900592495063,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 187,
+      "remaining": 113,
+      "remaining_counts": {
+        "G1": 46,
+        "G2": 38,
+        "G4": 12,
+        "G5": 17
+      },
+      "first_count": 92,
+      "second_count": 95,
+      "first_volume_utilization": 0.5813008767254982,
+      "second_volume_utilization": 0.4243994064599726,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 230,
+      "remaining": 70,
+      "remaining_counts": {
+        "G4": 30,
+        "G5": 40
+      },
+      "first_count": 141,
+      "second_count": 89,
+      "first_volume_utilization": 0.5622563925723899,
+      "second_volume_utilization": 0.36227624690429167,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 241,
+      "remaining": 59,
+      "remaining_counts": {
+        "G1": 22,
+        "G4": 37
+      },
+      "first_count": 144,
+      "second_count": 97,
+      "first_volume_utilization": 0.5463076167486964,
+      "second_volume_utilization": 0.40832001003166246,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 210,
+      "remaining": 90,
+      "remaining_counts": {
+        "G1": 28,
+        "G4": 12,
+        "G5": 50
+      },
+      "first_count": 114,
+      "second_count": 96,
+      "first_volume_utilization": 0.5876882242912526,
+      "second_volume_utilization": 0.40706605222734255,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 240,
+      "remaining": 60,
+      "remaining_counts": {
+        "G4": 30,
+        "G5": 30
+      },
+      "first_count": 140,
+      "second_count": 100,
+      "first_volume_utilization": 0.5654304732645746,
+      "second_volume_utilization": 0.40926047838490237,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 253,
+      "remaining": 47,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 7
+      },
+      "first_count": 148,
+      "second_count": 105,
+      "first_volume_utilization": 0.5767944658662236,
+      "second_volume_utilization": 0.3878648233486943,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 150,
+      "second_count": 110,
+      "first_volume_utilization": 0.6018736219526213,
+      "second_volume_utilization": 0.3978964857832534,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 261,
+      "remaining": 39,
+      "remaining_counts": {
+        "G1": 3,
+        "G4": 36
+      },
+      "first_count": 156,
+      "second_count": 105,
+      "first_volume_utilization": 0.5801644774653333,
+      "second_volume_utilization": 0.45847832220445783,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 156,
+      "second_count": 104,
+      "first_volume_utilization": 0.5801644774653333,
+      "second_volume_utilization": 0.4196056302705414,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 228,
+      "remaining": 72,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 32
+      },
+      "first_count": 148,
+      "second_count": 80,
+      "first_volume_utilization": 0.5049270092061402,
+      "second_volume_utilization": 0.33433649957678924,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 150,
+      "second_count": 110,
+      "first_volume_utilization": 0.6018736219526213,
+      "second_volume_utilization": 0.3978964857832534,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 226,
+      "remaining": 74,
+      "remaining_counts": {
+        "G4": 32,
+        "G5": 42
+      },
+      "first_count": 151,
+      "second_count": 75,
+      "first_volume_utilization": 0.6056224333051193,
+      "second_volume_utilization": 0.2837993876506056,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 218,
+      "remaining": 82,
+      "remaining_counts": {
+        "G1": 30,
+        "G4": 40,
+        "G5": 12
+      },
+      "first_count": 110,
+      "second_count": 108,
+      "first_volume_utilization": 0.38705497560007107,
+      "second_volume_utilization": 0.43966895513965953,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 228,
+      "remaining": 72,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 32
+      },
+      "first_count": 148,
+      "second_count": 80,
+      "first_volume_utilization": 0.5049270092061402,
+      "second_volume_utilization": 0.33433649957678924,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 242,
+      "remaining": 58,
+      "remaining_counts": {
+        "G4": 32,
+        "G5": 26
+      },
+      "first_count": 146,
+      "second_count": 96,
+      "first_volume_utilization": 0.6105729542200905,
+      "second_volume_utilization": 0.35910216621210694,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        12,
+        18
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 249,
+      "remaining": 51,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 11
+      },
+      "first_count": 154,
+      "second_count": 95,
+      "first_volume_utilization": 0.5877796587144842,
+      "second_volume_utilization": 0.3568163056313155,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 167,
+      "remaining": 133,
+      "remaining_counts": {
+        "G1": 73,
+        "G2": 40,
+        "G5": 20
+      },
+      "first_count": 74,
+      "second_count": 93,
+      "first_volume_utilization": 0.46474811122605725,
+      "second_volume_utilization": 0.5702373115144675,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 209,
+      "remaining": 91,
+      "remaining_counts": {
+        "G1": 66,
+        "G4": 25
+      },
+      "first_count": 93,
+      "second_count": 116,
+      "first_volume_utilization": 0.3850042321075896,
+      "second_volume_utilization": 0.5545759010209307,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 172,
+      "remaining": 128,
+      "remaining_counts": {
+        "G1": 80,
+        "G2": 28,
+        "G5": 20
+      },
+      "first_count": 74,
+      "second_count": 98,
+      "first_volume_utilization": 0.46474811122605725,
+      "second_volume_utilization": 0.5713345245932474,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 250,
+      "remaining": 50,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 10
+      },
+      "first_count": 122,
+      "second_count": 128,
+      "first_volume_utilization": 0.41072342915660887,
+      "second_volume_utilization": 0.5388883664064704,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 167,
+      "remaining": 133,
+      "remaining_counts": {
+        "G1": 73,
+        "G2": 40,
+        "G5": 20
+      },
+      "first_count": 74,
+      "second_count": 93,
+      "first_volume_utilization": 0.46474811122605725,
+      "second_volume_utilization": 0.5702373115144675,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 234,
+      "remaining": 66,
+      "remaining_counts": {
+        "G4": 22,
+        "G5": 44
+      },
+      "first_count": 124,
+      "second_count": 110,
+      "first_volume_utilization": 0.4772876892692561,
+      "second_volume_utilization": 0.5274982496838981,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 223,
+      "remaining": 77,
+      "remaining_counts": {
+        "G1": 52,
+        "G4": 25
+      },
+      "first_count": 114,
+      "second_count": 109,
+      "first_volume_utilization": 0.40570759793932937,
+      "second_volume_utilization": 0.586538762970626,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 194,
+      "remaining": 106,
+      "remaining_counts": {
+        "G1": 56,
+        "G5": 50
+      },
+      "first_count": 74,
+      "second_count": 120,
+      "first_volume_utilization": 0.46474811122605725,
+      "second_volume_utilization": 0.5751486462480537,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 224,
+      "remaining": 76,
+      "remaining_counts": {
+        "G2": 34,
+        "G4": 22,
+        "G5": 20
+      },
+      "first_count": 124,
+      "second_count": 100,
+      "first_volume_utilization": 0.4772876892692561,
+      "second_volume_utilization": 0.5701589391516976,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 124,
+      "second_count": 136,
+      "first_volume_utilization": 0.4772876892692561,
+      "second_volume_utilization": 0.5224824184666186,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 187,
+      "remaining": 113,
+      "remaining_counts": {
+        "G1": 46,
+        "G2": 38,
+        "G4": 12,
+        "G5": 17
+      },
+      "first_count": 95,
+      "second_count": 92,
+      "first_volume_utilization": 0.4243994064599726,
+      "second_volume_utilization": 0.5813008767254982,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 234,
+      "remaining": 66,
+      "remaining_counts": {
+        "G1": 38,
+        "G4": 28
+      },
+      "first_count": 119,
+      "second_count": 115,
+      "first_volume_utilization": 0.42577092280844747,
+      "second_volume_utilization": 0.5815229317533465,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 195,
+      "remaining": 105,
+      "remaining_counts": {
+        "G1": 76,
+        "G4": 12,
+        "G5": 17
+      },
+      "first_count": 100,
+      "second_count": 95,
+      "first_volume_utilization": 0.40926047838490237,
+      "second_volume_utilization": 0.5704463044818542,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 248,
+      "remaining": 52,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 12
+      },
+      "first_count": 115,
+      "second_count": 133,
+      "first_volume_utilization": 0.3843903152658913,
+      "second_volume_utilization": 0.5551898178626289,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 187,
+      "remaining": 113,
+      "remaining_counts": {
+        "G1": 46,
+        "G2": 38,
+        "G4": 12,
+        "G5": 17
+      },
+      "first_count": 95,
+      "second_count": 92,
+      "first_volume_utilization": 0.4243994064599726,
+      "second_volume_utilization": 0.5813008767254982,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 226,
+      "remaining": 74,
+      "remaining_counts": {
+        "G4": 25,
+        "G5": 49
+      },
+      "first_count": 106,
+      "second_count": 120,
+      "first_volume_utilization": 0.4095739678359823,
+      "second_volume_utilization": 0.5325140809011777,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 226,
+      "remaining": 74,
+      "remaining_counts": {
+        "G1": 41,
+        "G4": 33
+      },
+      "first_count": 106,
+      "second_count": 120,
+      "first_volume_utilization": 0.3668349060054129,
+      "second_volume_utilization": 0.5664754381015079,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 207,
+      "remaining": 93,
+      "remaining_counts": {
+        "G1": 31,
+        "G4": 12,
+        "G5": 50
+      },
+      "first_count": 111,
+      "second_count": 96,
+      "first_volume_utilization": 0.40445364013500945,
+      "second_volume_utilization": 0.5790150161447067,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 219,
+      "remaining": 81,
+      "remaining_counts": {
+        "G2": 23,
+        "G4": 25,
+        "G5": 33
+      },
+      "first_count": 106,
+      "second_count": 113,
+      "first_volume_utilization": 0.4095739678359823,
+      "second_volume_utilization": 0.5601925870194467,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 246,
+      "remaining": 54,
+      "remaining_counts": {
+        "G2": 14,
+        "G4": 40
+      },
+      "first_count": 106,
+      "second_count": 140,
+      "first_volume_utilization": 0.4095739678359823,
+      "second_volume_utilization": 0.558194091768812,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 112,
+      "second_count": 148,
+      "first_volume_utilization": 0.44881239746282536,
+      "second_volume_utilization": 0.5509577102730493,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 263,
+      "remaining": 37,
+      "remaining_counts": {
+        "G1": 1,
+        "G4": 36
+      },
+      "first_count": 127,
+      "second_count": 136,
+      "first_volume_utilization": 0.45210403669916505,
+      "second_volume_utilization": 0.5940625097965454,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 127,
+      "second_count": 133,
+      "first_volume_utilization": 0.45210403669916505,
+      "second_volume_utilization": 0.5476660710367096,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 237,
+      "remaining": 63,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 23
+      },
+      "first_count": 117,
+      "second_count": 120,
+      "first_volume_utilization": 0.3919140620918106,
+      "second_volume_utilization": 0.4924919276466347,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 112,
+      "second_count": 148,
+      "first_volume_utilization": 0.44881239746282536,
+      "second_volume_utilization": 0.5509577102730493,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 229,
+      "remaining": 71,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 31
+      },
+      "first_count": 127,
+      "second_count": 102,
+      "first_volume_utilization": 0.48266925817946227,
+      "second_volume_utilization": 0.3616100818207467,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 250,
+      "remaining": 50,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 10
+      },
+      "first_count": 110,
+      "second_count": 140,
+      "first_volume_utilization": 0.37059677941837255,
+      "second_volume_utilization": 0.5790150161447067,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 237,
+      "remaining": 63,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 23
+      },
+      "first_count": 117,
+      "second_count": 120,
+      "first_volume_utilization": 0.3919140620918106,
+      "second_volume_utilization": 0.4924919276466347,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 246,
+      "remaining": 54,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 14
+      },
+      "first_count": 127,
+      "second_count": 119,
+      "first_volume_utilization": 0.48266925817946227,
+      "second_volume_utilization": 0.4468792125144989,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        18,
+        12
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 246,
+      "remaining": 54,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 14
+      },
+      "first_count": 127,
+      "second_count": 119,
+      "first_volume_utilization": 0.48266925817946227,
+      "second_volume_utilization": 0.4468792125144989,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 66,
+        "G2": 39,
+        "G4": 8,
+        "G5": 5
+      },
+      "first_count": 106,
+      "second_count": 76,
+      "first_volume_utilization": 0.6315114371401402,
+      "second_volume_utilization": 0.4070138039854959,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 220,
+      "remaining": 80,
+      "remaining_counts": {
+        "G1": 62,
+        "G4": 18
+      },
+      "first_count": 141,
+      "second_count": 79,
+      "first_volume_utilization": 0.6278671222713356,
+      "second_volume_utilization": 0.4145375508114152,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 185,
+      "remaining": 115,
+      "remaining_counts": {
+        "G1": 80,
+        "G2": 22,
+        "G4": 8,
+        "G5": 5
+      },
+      "first_count": 109,
+      "second_count": 76,
+      "first_volume_utilization": 0.619180852064328,
+      "second_volume_utilization": 0.40553779115332766,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 239,
+      "remaining": 61,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 21
+      },
+      "first_count": 158,
+      "second_count": 81,
+      "first_volume_utilization": 0.5513756962078226,
+      "second_volume_utilization": 0.3430619559651818,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 66,
+        "G2": 39,
+        "G4": 8,
+        "G5": 5
+      },
+      "first_count": 106,
+      "second_count": 76,
+      "first_volume_utilization": 0.6315114371401402,
+      "second_volume_utilization": 0.4070138039854959,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 231,
+      "remaining": 69,
+      "remaining_counts": {
+        "G4": 22,
+        "G5": 47
+      },
+      "first_count": 156,
+      "second_count": 75,
+      "first_volume_utilization": 0.5864865147287793,
+      "second_volume_utilization": 0.4032519305725362,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 243,
+      "remaining": 57,
+      "remaining_counts": {
+        "G1": 24,
+        "G4": 33
+      },
+      "first_count": 160,
+      "second_count": 83,
+      "first_volume_utilization": 0.5990260927719783,
+      "second_volume_utilization": 0.3982360993552567,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 203,
+      "remaining": 97,
+      "remaining_counts": {
+        "G1": 39,
+        "G4": 8,
+        "G5": 50
+      },
+      "first_count": 124,
+      "second_count": 79,
+      "first_volume_utilization": 0.5889944303374192,
+      "second_volume_utilization": 0.4145375508114152,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G2": 5,
+        "G4": 22,
+        "G5": 37
+      },
+      "first_count": 160,
+      "second_count": 76,
+      "first_volume_utilization": 0.622929663416826,
+      "second_volume_utilization": 0.40553779115332766,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 256,
+      "remaining": 44,
+      "remaining_counts": {
+        "G2": 4,
+        "G4": 40
+      },
+      "first_count": 165,
+      "second_count": 91,
+      "first_volume_utilization": 0.6328960155490768,
+      "second_volume_utilization": 0.35773064986363207,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 200,
+      "remaining": 100,
+      "remaining_counts": {
+        "G1": 33,
+        "G2": 37,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 106,
+      "second_count": 94,
+      "first_volume_utilization": 0.6388131289382112,
+      "second_volume_utilization": 0.3829665506755698,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G1": 32,
+        "G4": 32
+      },
+      "first_count": 141,
+      "second_count": 95,
+      "first_volume_utilization": 0.6103117130108572,
+      "second_volume_utilization": 0.36939506985589937,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 208,
+      "remaining": 92,
+      "remaining_counts": {
+        "G1": 62,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 115,
+      "second_count": 93,
+      "first_volume_utilization": 0.6165815020324567,
+      "second_volume_utilization": 0.3806806900947783,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 225,
+      "remaining": 75,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 35
+      },
+      "first_count": 150,
+      "second_count": 75,
+      "first_volume_utilization": 0.5112490464695862,
+      "second_volume_utilization": 0.31296696866150453,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 200,
+      "remaining": 100,
+      "remaining_counts": {
+        "G1": 33,
+        "G2": 37,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 106,
+      "second_count": 94,
+      "first_volume_utilization": 0.6388131289382112,
+      "second_volume_utilization": 0.3829665506755698,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 232,
+      "remaining": 68,
+      "remaining_counts": {
+        "G4": 33,
+        "G5": 35
+      },
+      "first_count": 157,
+      "second_count": 75,
+      "first_volume_utilization": 0.5990260927719783,
+      "second_volume_utilization": 0.31296696866150453,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 234,
+      "remaining": 66,
+      "remaining_counts": {
+        "G1": 27,
+        "G4": 39
+      },
+      "first_count": 139,
+      "second_count": 95,
+      "first_volume_utilization": 0.5413440337732636,
+      "second_volume_utilization": 0.36939506985589937,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 211,
+      "remaining": 89,
+      "remaining_counts": {
+        "G1": 23,
+        "G4": 16,
+        "G5": 50
+      },
+      "first_count": 116,
+      "second_count": 95,
+      "first_volume_utilization": 0.5940102615546987,
+      "second_volume_utilization": 0.36939506985589937,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 238,
+      "remaining": 62,
+      "remaining_counts": {
+        "G4": 33,
+        "G5": 29
+      },
+      "first_count": 157,
+      "second_count": 81,
+      "first_volume_utilization": 0.6154059165909067,
+      "second_volume_utilization": 0.3266821321462533,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 252,
+      "remaining": 48,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 8
+      },
+      "first_count": 163,
+      "second_count": 89,
+      "first_volume_utilization": 0.6146744412050534,
+      "second_volume_utilization": 0.3449690167925849,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G2": 31,
+        "G4": 28,
+        "G5": 5
+      },
+      "first_count": 138,
+      "second_count": 98,
+      "first_volume_utilization": 0.6585760264167111,
+      "second_volume_utilization": 0.39572818374661695,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G1": 4,
+        "G4": 36
+      },
+      "first_count": 167,
+      "second_count": 93,
+      "first_volume_utilization": 0.6278671222713356,
+      "second_volume_utilization": 0.4070138039854959,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 254,
+      "remaining": 46,
+      "remaining_counts": {
+        "G1": 13,
+        "G4": 28,
+        "G5": 5
+      },
+      "first_count": 156,
+      "second_count": 98,
+      "first_volume_utilization": 0.6805333500527707,
+      "second_volume_utilization": 0.39572818374661695,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 222,
+      "remaining": 78,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 38
+      },
+      "first_count": 150,
+      "second_count": 72,
+      "first_volume_utilization": 0.5112490464695862,
+      "second_volume_utilization": 0.2979194750096659,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G2": 31,
+        "G4": 28,
+        "G5": 5
+      },
+      "first_count": 138,
+      "second_count": 98,
+      "first_volume_utilization": 0.6585760264167111,
+      "second_volume_utilization": 0.39572818374661695,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 229,
+      "remaining": 71,
+      "remaining_counts": {
+        "G4": 33,
+        "G5": 38
+      },
+      "first_count": 157,
+      "second_count": 72,
+      "first_volume_utilization": 0.5990260927719783,
+      "second_volume_utilization": 0.2979194750096659,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 224,
+      "remaining": 76,
+      "remaining_counts": {
+        "G1": 20,
+        "G4": 40,
+        "G5": 16
+      },
+      "first_count": 126,
+      "second_count": 98,
+      "first_volume_utilization": 0.44855115625359204,
+      "second_volume_utilization": 0.39572818374661695,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 230,
+      "remaining": 70,
+      "remaining_counts": {
+        "G4": 28,
+        "G5": 42
+      },
+      "first_count": 134,
+      "second_count": 96,
+      "first_volume_utilization": 0.5563915274251021,
+      "second_volume_utilization": 0.38318860570341806,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 238,
+      "remaining": 62,
+      "remaining_counts": {
+        "G4": 33,
+        "G5": 29
+      },
+      "first_count": 155,
+      "second_count": 83,
+      "first_volume_utilization": 0.6190241073387881,
+      "second_volume_utilization": 0.32306394139837197,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        10,
+        20
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 248,
+      "remaining": 52,
+      "remaining_counts": {
+        "G4": 36,
+        "G5": 16
+      },
+      "first_count": 161,
+      "second_count": 87,
+      "first_volume_utilization": 0.5964528668610302,
+      "second_volume_utilization": 0.37322225357116734,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 66,
+        "G2": 39,
+        "G4": 8,
+        "G5": 5
+      },
+      "first_count": 76,
+      "second_count": 106,
+      "first_volume_utilization": 0.4070138039854959,
+      "second_volume_utilization": 0.6315114371401402,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 217,
+      "remaining": 83,
+      "remaining_counts": {
+        "G1": 58,
+        "G4": 25
+      },
+      "first_count": 87,
+      "second_count": 130,
+      "first_volume_utilization": 0.3567771194499305,
+      "second_volume_utilization": 0.612898000982267,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 185,
+      "remaining": 115,
+      "remaining_counts": {
+        "G1": 80,
+        "G2": 22,
+        "G4": 8,
+        "G5": 5
+      },
+      "first_count": 76,
+      "second_count": 109,
+      "first_volume_utilization": 0.40553779115332766,
+      "second_volume_utilization": 0.619180852064328,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 115,
+      "second_count": 145,
+      "first_volume_utilization": 0.3855920248283645,
+      "second_volume_utilization": 0.6141780829075102,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 182,
+      "remaining": 118,
+      "remaining_counts": {
+        "G1": 66,
+        "G2": 39,
+        "G4": 8,
+        "G5": 5
+      },
+      "first_count": 76,
+      "second_count": 106,
+      "first_volume_utilization": 0.4070138039854959,
+      "second_volume_utilization": 0.6315114371401402,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 230,
+      "remaining": 70,
+      "remaining_counts": {
+        "G4": 25,
+        "G5": 45
+      },
+      "first_count": 109,
+      "second_count": 121,
+      "first_volume_utilization": 0.4220612976373345,
+      "second_volume_utilization": 0.5400900759689437,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 246,
+      "remaining": 54,
+      "remaining_counts": {
+        "G1": 24,
+        "G4": 30
+      },
+      "first_count": 112,
+      "second_count": 134,
+      "first_volume_utilization": 0.37681432019812533,
+      "second_volume_utilization": 0.6580666060587061,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 208,
+      "remaining": 92,
+      "remaining_counts": {
+        "G1": 34,
+        "G4": 8,
+        "G5": 50
+      },
+      "first_count": 80,
+      "second_count": 128,
+      "first_volume_utilization": 0.4064913215670293,
+      "second_volume_utilization": 0.6158500266466034,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 237,
+      "remaining": 63,
+      "remaining_counts": {
+        "G2": 2,
+        "G4": 25,
+        "G5": 36
+      },
+      "first_count": 109,
+      "second_count": 128,
+      "first_volume_utilization": 0.4220612976373345,
+      "second_volume_utilization": 0.5806608357628765,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "rows",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 109,
+      "second_count": 151,
+      "first_volume_utilization": 0.4220612976373345,
+      "second_volume_utilization": 0.5777088100985401,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 200,
+      "remaining": 100,
+      "remaining_counts": {
+        "G1": 33,
+        "G2": 37,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 94,
+      "second_count": 106,
+      "first_volume_utilization": 0.3829665506755698,
+      "second_volume_utilization": 0.6388131289382112,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 216,
+      "remaining": 84,
+      "remaining_counts": {
+        "G1": 60,
+        "G4": 24
+      },
+      "first_count": 103,
+      "second_count": 113,
+      "first_volume_utilization": 0.37697106492366533,
+      "second_volume_utilization": 0.5977198867258117,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 209,
+      "remaining": 91,
+      "remaining_counts": {
+        "G1": 61,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 103,
+      "second_count": 106,
+      "first_volume_utilization": 0.37697106492366533,
+      "second_volume_utilization": 0.6240530006165292,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 243,
+      "remaining": 57,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 17
+      },
+      "first_count": 106,
+      "second_count": 137,
+      "first_volume_utilization": 0.3517351641117276,
+      "second_volume_utilization": 0.5627658129303948,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 200,
+      "remaining": 100,
+      "remaining_counts": {
+        "G1": 33,
+        "G2": 37,
+        "G4": 16,
+        "G5": 14
+      },
+      "first_count": 94,
+      "second_count": 106,
+      "first_volume_utilization": 0.3829665506755698,
+      "second_volume_utilization": 0.6388131289382112,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 226,
+      "remaining": 74,
+      "remaining_counts": {
+        "G4": 25,
+        "G5": 49
+      },
+      "first_count": 95,
+      "second_count": 131,
+      "first_volume_utilization": 0.36939506985589937,
+      "second_volume_utilization": 0.5726929788812607,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 237,
+      "remaining": 63,
+      "remaining_counts": {
+        "G1": 31,
+        "G4": 32
+      },
+      "first_count": 105,
+      "second_count": 132,
+      "first_volume_utilization": 0.3492272485030879,
+      "second_volume_utilization": 0.6342414077766283,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 217,
+      "remaining": 83,
+      "remaining_counts": {
+        "G1": 17,
+        "G4": 16,
+        "G5": 50
+      },
+      "first_count": 106,
+      "second_count": 111,
+      "first_volume_utilization": 0.3517351641117276,
+      "second_volume_utilization": 0.6342414077766283,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 227,
+      "remaining": 73,
+      "remaining_counts": {
+        "G2": 16,
+        "G4": 25,
+        "G5": 32
+      },
+      "first_count": 95,
+      "second_count": 132,
+      "first_volume_utilization": 0.36939506985589937,
+      "second_volume_utilization": 0.6213883402823495,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "cols",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 254,
+      "remaining": 46,
+      "remaining_counts": {
+        "G2": 2,
+        "G4": 40,
+        "G5": 4
+      },
+      "first_count": 95,
+      "second_count": 159,
+      "first_volume_utilization": 0.36939506985589937,
+      "second_volume_utilization": 0.6057399918492743,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G2": 31,
+        "G4": 28,
+        "G5": 5
+      },
+      "first_count": 98,
+      "second_count": 138,
+      "first_volume_utilization": 0.39572818374661695,
+      "second_volume_utilization": 0.6585760264167111,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.8,
+        "base_weight": 0.4,
+        "height_weight": 100.0,
+        "center_points": true
+      },
+      "placed": 264,
+      "remaining": 36,
+      "remaining_counts": {
+        "G4": 36
+      },
+      "first_count": 115,
+      "second_count": 149,
+      "first_volume_utilization": 0.4006395184802031,
+      "second_volume_utilization": 0.649288901428467,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.5,
+        "height_weight": 200.0,
+        "center_points": true
+      },
+      "placed": 244,
+      "remaining": 56,
+      "remaining_counts": {
+        "G1": 23,
+        "G4": 28,
+        "G5": 5
+      },
+      "first_count": 115,
+      "second_count": 129,
+      "first_volume_utilization": 0.4006395184802031,
+      "second_volume_utilization": 0.6380032811895879,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.1447082595535003,
+        "base_weight": 0.5721927376517798,
+        "height_weight": 628.5980601707454,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 24
+      },
+      "first_count": 106,
+      "second_count": 130,
+      "first_volume_utilization": 0.3517351641117276,
+      "second_volume_utilization": 0.5276549944094381,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6802917124755453,
+        "base_weight": 0.7207877342646941,
+        "height_weight": 511.0403538553926,
+        "center_points": true
+      },
+      "placed": 236,
+      "remaining": 64,
+      "remaining_counts": {
+        "G2": 31,
+        "G4": 28,
+        "G5": 5
+      },
+      "first_count": 98,
+      "second_count": 138,
+      "first_volume_utilization": 0.39572818374661695,
+      "second_volume_utilization": 0.6585760264167111,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G2",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 537.4546808991412,
+        "center_points": true
+      },
+      "placed": 229,
+      "remaining": 71,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 31
+      },
+      "first_count": 109,
+      "second_count": 120,
+      "first_volume_utilization": 0.4220612976373345,
+      "second_volume_utilization": 0.42221804236287447,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 201.36356771995634,
+        "center_points": true
+      },
+      "placed": 253,
+      "remaining": 47,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 7
+      },
+      "first_count": 105,
+      "second_count": 148,
+      "first_volume_utilization": 0.3492272485030879,
+      "second_volume_utilization": 0.61543204071183,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G2",
+          "G1",
+          "G5",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 131.0067863117779,
+        "center_points": true
+      },
+      "placed": 233,
+      "remaining": 67,
+      "remaining_counts": {
+        "G4": 28,
+        "G5": 39
+      },
+      "first_count": 106,
+      "second_count": 127,
+      "first_volume_utilization": 0.3517351641117276,
+      "second_volume_utilization": 0.6028924626686312,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G4",
+          "G5",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9629500348124422,
+        "base_weight": 0.48728937134904815,
+        "height_weight": 151.7927350118833,
+        "center_points": true
+      },
+      "placed": 240,
+      "remaining": 60,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 20
+      },
+      "first_count": 109,
+      "second_count": 131,
+      "first_volume_utilization": 0.4220612976373345,
+      "second_volume_utilization": 0.4773921857529494,
+      "validation_error_count": 0
+    },
+    {
+      "split": [
+        20,
+        10
+      ],
+      "style": "checker",
+      "gene": {
+        "goods_order": [
+          "G1",
+          "G5",
+          "G2",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.3300510131532461,
+        "base_weight": 0.482669192704948,
+        "height_weight": 550.4634889483156,
+        "center_points": true
+      },
+      "placed": 240,
+      "remaining": 60,
+      "remaining_counts": {
+        "G4": 40,
+        "G5": 20
+      },
+      "first_count": 109,
+      "second_count": 131,
+      "first_volume_utilization": 0.4220612976373345,
+      "second_volume_utilization": 0.4773921857529494,
+      "validation_error_count": 0
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "algorithm": "Hybrid Genetic Constraint-aware Extreme Point heuristic",
+  "note": "The chromosome optimizes vehicle sequence, cargo type priority and height-aware ordering weights; coordinates are decoded by the constraint-aware extreme-point placer.",
+  "best_chromosome": {
+    "vehicle_sequence": [
+      "V2",
+      "V1"
+    ],
+    "label_priority": [
+      "directed",
+      "standard",
+      "fragile"
+    ],
+    "volume_weight": 1.0,
+    "base_weight": 0.2,
+    "height_weight": 0.0,
+    "weight_weight": 0.0,
+    "fragile_late": 0.0
+  },
+  "best_solution": {
+    "vehicle_count": 2,
+    "total_cost": 1150,
+    "total_volume_cm3": 28735000,
+    "total_weight_kg": 4110,
+    "avg_volume_utilization": 0.3745795475475463,
+    "avg_weight_utilization": 0.21200000000000002,
+    "avg_combined_fullness": 0.2770318190190186,
+    "vehicles": [
+      {
+        "vehicle_id": "ga-1-V2",
+        "vehicle_code": "V2",
+        "vehicle_name": "车型2",
+        "strategy": "GA-height-aware-extreme-point",
+        "cost": 700,
+        "stats": {
+          "item_count": 287,
+          "volume_cm3": 26915000,
+          "weight_kg": 3915,
+          "volume_utilization": 0.654067294934168,
+          "weight_utilization": 0.3915,
+          "combined_fullness": 0.49652691797366727
+        },
+        "goods_counts": {
+          "G4": 40,
+          "G5": 50,
+          "G1": 80,
+          "G2": 100,
+          "G3": 17
+        }
+      },
+      {
+        "vehicle_id": "ga-2-V1",
+        "vehicle_code": "V1",
+        "vehicle_name": "车型1",
+        "strategy": "GA-height-aware-extreme-point",
+        "cost": 450,
+        "stats": {
+          "item_count": 13,
+          "volume_cm3": 1820000,
+          "weight_kg": 195,
+          "volume_utilization": 0.09509180016092458,
+          "weight_utilization": 0.0325,
+          "combined_fullness": 0.057536720064369835
+        },
+        "goods_counts": {
+          "G3": 13
+        }
+      }
+    ]
+  },
+  "validation_errors": {
+    "ga-1-V2": [],
+    "ga-2-V1": []
+  },
+  "history": [
+    {
+      "generation": 0,
+      "remaining_count": 0,
+      "remaining_volume": 0,
+      "vehicle_count": 2,
+      "cost": 1150,
+      "fitness": [
+        0,
+        0,
+        2,
+        1150,
+        -0.2770318190190186
+      ]
+    },
+    {
+      "generation": 1,
+      "remaining_count": 0,
+      "remaining_volume": 0,
+      "vehicle_count": 2,
+      "cost": 1150,
+      "fitness": [
+        0,
+        0,
+        2,
+        1150,
+        -0.2770318190190186
+      ]
+    }
+  ]
+}

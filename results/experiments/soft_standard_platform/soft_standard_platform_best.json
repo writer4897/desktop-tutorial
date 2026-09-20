@@ -1,0 +1,53 @@
+{
+  "split": [
+    4,
+    4
+  ],
+  "style": "side_rows",
+  "balanced": false,
+  "gene": {
+    "goods_order": [
+      "G4",
+      "G5",
+      "G1",
+      "G2",
+      "G3"
+    ],
+    "label_order": [
+      "directed",
+      "standard",
+      "fragile"
+    ],
+    "volume_weight": 1.0,
+    "base_weight": 0.2,
+    "height_weight": 0.0,
+    "center_points": true
+  },
+  "placed": 293,
+  "remaining": 7,
+  "remaining_counts": {
+    "G3": 7
+  },
+  "first_count": 105,
+  "second_count": 188,
+  "first_goods": {
+    "G2": 10,
+    "G3": 4,
+    "G4": 40,
+    "G5": 37,
+    "G1": 14
+  },
+  "second_goods": {
+    "G2": 90,
+    "G3": 19,
+    "G5": 13,
+    "G1": 66
+  },
+  "avg_volume_utilization": 0.72507497622705,
+  "avg_weight_utilization": 0.33375,
+  "max_support_pressure_kg_per_m2": 150.0,
+  "validation_error_count": 0,
+  "g3_total": 23,
+  "g3_floor": 0,
+  "g3_platform": 23
+}

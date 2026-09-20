@@ -1,0 +1,3 @@
+# Core optimization and verification use only the Python standard library.
+# Optional visualization:
+matplotlib>=3.7,<4

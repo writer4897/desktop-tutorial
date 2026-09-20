@@ -1,0 +1,152 @@
+{
+  "source": "D:\\2026_Mathorcup_工作组\\D题\\附件2：验证数据集.xlsx",
+  "assumption": "附件2未给出数量和重量；本验证将每种箱装产品设为10件、重量设为1kg，仅检验尺寸读取、车型泛化和空间装载能力。",
+  "product_count": 8,
+  "item_count": 80,
+  "vehicle_count": 16,
+  "best_vehicle": {
+    "vehicle_code": "A2V12",
+    "vehicle_name": "6米8低栏板",
+    "placed_count": 80,
+    "remaining_count": 0,
+    "stats": {
+      "item_count": 80,
+      "volume_cm3": 2936780,
+      "weight_kg": 80,
+      "volume_utilization": 0.41342252779584376,
+      "weight_utilization": 8e-08,
+      "combined_fullness": 0.16536905911833752
+    },
+    "validation_errors": []
+  },
+  "all_vehicle_tests": [
+    {
+      "vehicle_code": "A2V1",
+      "vehicle_name": "单节柜",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.09129848166432471,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V2",
+      "vehicle_name": "集装箱",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.044127599471090274,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V3",
+      "vehicle_name": "超高柜",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.039150802538260546,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V4",
+      "vehicle_name": "4.2米箱货",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.2517815500685871,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V5",
+      "vehicle_name": "6.2米箱货",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.14009550296478984,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V6",
+      "vehicle_name": "6.8米箱货",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.08954312814011363,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V7",
+      "vehicle_name": "9.6米箱货",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.06287070699199468,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V8",
+      "vehicle_name": "17米箱货",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.03538830213920659,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V9",
+      "vehicle_name": "4.2低栏板",
+      "placed_count": 75,
+      "remaining_count": 5,
+      "volume_utilization": 0.7022847011144884,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V10",
+      "vehicle_name": "4.2高栏",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.22268577494692143,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V11",
+      "vehicle_name": "6米8高栏",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.12376343188792775,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V12",
+      "vehicle_name": "6米8低栏板",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.41342252779584376,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V13",
+      "vehicle_name": "9米6高栏",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.08689772877237481,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V14",
+      "vehicle_name": "9米6低栏板",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.2902753918566563,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V15",
+      "vehicle_name": "13米高栏",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.06312508890728927,
+      "validation_errors": []
+    },
+    {
+      "vehicle_code": "A2V16",
+      "vehicle_name": "13米高低板",
+      "placed_count": 80,
+      "remaining_count": 0,
+      "volume_utilization": 0.2042096626150808,
+      "validation_errors": []
+    }
+  ]
+}

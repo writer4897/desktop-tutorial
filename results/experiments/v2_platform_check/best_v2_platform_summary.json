@@ -1,0 +1,28 @@
+{
+  "cols": 6,
+  "rows": 5,
+  "strategy": "small_first",
+  "placed": 258,
+  "leftover": 42,
+  "leftover_counts": {
+    "G3": 6,
+    "G4": 36
+  },
+  "validation_error_count": 0,
+  "errors": [],
+  "stats": {
+    "item_count": 258,
+    "volume_cm3": 19255000,
+    "weight_kg": 3120,
+    "volume_utilization": 0.46791996150686993,
+    "weight_utilization": 0.312,
+    "combined_fullness": 0.37436798460274795
+  },
+  "goods_counts": {
+    "G2": 100,
+    "G3": 24,
+    "G1": 80,
+    "G5": 50,
+    "G4": 4
+  }
+}

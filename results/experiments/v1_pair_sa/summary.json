@@ -1,0 +1,666 @@
+{
+  "gene": {
+    "goods_order": [
+      "G5",
+      "G4",
+      "G2",
+      "G1",
+      "G3"
+    ],
+    "label_order": [
+      "standard",
+      "fragile",
+      "directed"
+    ],
+    "volume_weight": 0.7451502280624284,
+    "base_weight": 0.34101975473148427,
+    "height_weight": 103.35317628643878,
+    "center_points": true
+  },
+  "placed": 284,
+  "remaining": 16,
+  "remaining_counts": {
+    "G3": 16
+  },
+  "first_count": 146,
+  "second_count": 138,
+  "first_volume_utilization": 0.8803828751162524,
+  "second_volume_utilization": 0.5039342926110536,
+  "validation_error_count": 0,
+  "elapsed_seconds": 130.52691149999737,
+  "history": [
+    {
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.2,
+        "height_weight": 0.0,
+        "center_points": false
+      },
+      "placed": 281,
+      "remaining": 19,
+      "remaining_counts": {
+        "G3": 19
+      },
+      "first_count": 134,
+      "second_count": 147,
+      "first_volume_utilization": 0.8942809074474644,
+      "second_volume_utilization": 0.4680919987042436,
+      "validation_error_count": 0,
+      "trial": 0
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G3",
+          "G4",
+          "G5",
+          "G1"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.4,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 212,
+      "remaining": 88,
+      "remaining_counts": {
+        "G1": 51,
+        "G4": 20,
+        "G5": 17
+      },
+      "first_count": 136,
+      "second_count": 76,
+      "first_volume_utilization": 0.4315182294115803,
+      "second_volume_utilization": 0.5419187644335768,
+      "validation_error_count": 0,
+      "trial": 1
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G3",
+          "G2",
+          "G4",
+          "G5",
+          "G1"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.4,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 194,
+      "remaining": 106,
+      "remaining_counts": {
+        "G1": 42,
+        "G4": 22,
+        "G5": 42
+      },
+      "first_count": 24,
+      "second_count": 170,
+      "first_volume_utilization": 0.17555409260478386,
+      "second_volume_utilization": 0.681264825438624,
+      "validation_error_count": 0,
+      "trial": 2
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G3",
+          "G1"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.0,
+        "base_weight": 0.4,
+        "height_weight": 0.0,
+        "center_points": true
+      },
+      "placed": 230,
+      "remaining": 70,
+      "remaining_counts": {
+        "G1": 59,
+        "G3": 11
+      },
+      "first_count": 138,
+      "second_count": 92,
+      "first_volume_utilization": 0.8620959904699207,
+      "second_volume_utilization": 0.336844415185429,
+      "validation_error_count": 0,
+      "trial": 3
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G1",
+          "G2",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 0.6021408394064096,
+        "base_weight": 0.32380226143610946,
+        "height_weight": 165.1566323806535,
+        "center_points": true
+      },
+      "placed": 281,
+      "remaining": 19,
+      "remaining_counts": {
+        "G3": 19
+      },
+      "first_count": 134,
+      "second_count": 147,
+      "first_volume_utilization": 0.8942809074474644,
+      "second_volume_utilization": 0.4680919987042436,
+      "validation_error_count": 0,
+      "trial": 4
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G3",
+          "G2",
+          "G4",
+          "G1"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.5780938508862639,
+        "base_weight": 0.39479944529699085,
+        "height_weight": 691.0131611560387,
+        "center_points": false
+      },
+      "placed": 235,
+      "remaining": 65,
+      "remaining_counts": {
+        "G1": 39,
+        "G3": 6,
+        "G4": 20
+      },
+      "first_count": 211,
+      "second_count": 24,
+      "first_volume_utilization": 0.8844059897384453,
+      "second_volume_utilization": 0.17555409260478386,
+      "validation_error_count": 0,
+      "trial": 5
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G4",
+          "G3",
+          "G1",
+          "G5"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 1.3690081075924367,
+        "base_weight": 0.06717365523084444,
+        "height_weight": 258.89601563994387,
+        "center_points": true
+      },
+      "placed": 278,
+      "remaining": 22,
+      "remaining_counts": {
+        "G3": 22
+      },
+      "first_count": 191,
+      "second_count": 87,
+      "first_volume_utilization": 0.8413534384567959,
+      "second_volume_utilization": 0.4990752061193141,
+      "validation_error_count": 0,
+      "trial": 6
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G3",
+          "G2",
+          "G1",
+          "G4",
+          "G5"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 0.9634586963402192,
+        "base_weight": 0.48984098717711055,
+        "height_weight": 168.43729668657156,
+        "center_points": true
+      },
+      "placed": 215,
+      "remaining": 85,
+      "remaining_counts": {
+        "G4": 35,
+        "G5": 50
+      },
+      "first_count": 24,
+      "second_count": 191,
+      "first_volume_utilization": 0.17555409260478386,
+      "second_volume_utilization": 0.6361223444831081,
+      "validation_error_count": 0,
+      "trial": 7
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G3",
+          "G1",
+          "G4",
+          "G5"
+        ],
+        "label_order": [
+          "standard",
+          "directed",
+          "fragile"
+        ],
+        "volume_weight": 0.7168467643026905,
+        "base_weight": 0.22480755077588635,
+        "height_weight": 574.897669715039,
+        "center_points": true
+      },
+      "placed": 227,
+      "remaining": 73,
+      "remaining_counts": {
+        "G4": 28,
+        "G5": 45
+      },
+      "first_count": 136,
+      "second_count": 91,
+      "first_volume_utilization": 0.4315182294115803,
+      "second_volume_utilization": 0.4930144100651013,
+      "validation_error_count": 0,
+      "trial": 8
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.43005269610996,
+        "base_weight": 0.6369522074131951,
+        "height_weight": 205.77127106937408,
+        "center_points": true
+      },
+      "placed": 282,
+      "remaining": 18,
+      "remaining_counts": {
+        "G3": 18
+      },
+      "first_count": 192,
+      "second_count": 90,
+      "first_volume_utilization": 0.8129303948922119,
+      "second_volume_utilization": 0.5567572651180288,
+      "validation_error_count": 0,
+      "trial": 9
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G2",
+          "G4",
+          "G3",
+          "G1"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 1.4506185120840365,
+        "base_weight": 0.05591483839070213,
+        "height_weight": 804.82159892989,
+        "center_points": true
+      },
+      "placed": 272,
+      "remaining": 28,
+      "remaining_counts": {
+        "G3": 28
+      },
+      "first_count": 207,
+      "second_count": 65,
+      "first_volume_utilization": 0.8764642569777527,
+      "second_volume_utilization": 0.42007586444716133,
+      "validation_error_count": 0,
+      "trial": 10
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G4",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 0.7451502280624284,
+        "base_weight": 0.34101975473148427,
+        "height_weight": 103.35317628643878,
+        "center_points": true
+      },
+      "placed": 284,
+      "remaining": 16,
+      "remaining_counts": {
+        "G3": 16
+      },
+      "first_count": 146,
+      "second_count": 138,
+      "first_volume_utilization": 0.8803828751162524,
+      "second_volume_utilization": 0.5039342926110536,
+      "validation_error_count": 0,
+      "trial": 11
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G3",
+          "G2",
+          "G1",
+          "G4"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 0.8988802144377331,
+        "base_weight": 0.28794370681859843,
+        "height_weight": 168.95269704818278,
+        "center_points": true
+      },
+      "placed": 254,
+      "remaining": 46,
+      "remaining_counts": {
+        "G3": 6,
+        "G4": 40
+      },
+      "first_count": 230,
+      "second_count": 24,
+      "first_volume_utilization": 0.7803274919798949,
+      "second_volume_utilization": 0.17555409260478386,
+      "validation_error_count": 0,
+      "trial": 12
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G3",
+          "G5",
+          "G1",
+          "G4"
+        ],
+        "label_order": [
+          "fragile",
+          "standard",
+          "directed"
+        ],
+        "volume_weight": 1.0520766016937229,
+        "base_weight": 0.7015990924656634,
+        "height_weight": 115.09566822127393,
+        "center_points": true
+      },
+      "placed": 260,
+      "remaining": 40,
+      "remaining_counts": {
+        "G4": 40
+      },
+      "first_count": 136,
+      "second_count": 124,
+      "first_volume_utilization": 0.4315182294115803,
+      "second_volume_utilization": 0.5682518783242944,
+      "validation_error_count": 0,
+      "trial": 13
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G2",
+          "G1",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "standard",
+          "fragile"
+        ],
+        "volume_weight": 0.8648244149814326,
+        "base_weight": 0.11769418339337596,
+        "height_weight": 460.5292821303837,
+        "center_points": true
+      },
+      "placed": 276,
+      "remaining": 24,
+      "remaining_counts": {
+        "G3": 24
+      },
+      "first_count": 236,
+      "second_count": 40,
+      "first_volume_utilization": 0.8242160151310909,
+      "second_volume_utilization": 0.5015831217279538,
+      "validation_error_count": 0,
+      "trial": 14
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G5",
+          "G3",
+          "G2",
+          "G4",
+          "G1"
+        ],
+        "label_order": [
+          "standard",
+          "directed",
+          "fragile"
+        ],
+        "volume_weight": 0.5893220789768802,
+        "base_weight": 0.18225082540566984,
+        "height_weight": 894.8958595046753,
+        "center_points": false
+      },
+      "placed": 235,
+      "remaining": 65,
+      "remaining_counts": {
+        "G1": 39,
+        "G3": 6,
+        "G4": 20
+      },
+      "first_count": 211,
+      "second_count": 24,
+      "first_volume_utilization": 0.8844059897384453,
+      "second_volume_utilization": 0.17555409260478386,
+      "validation_error_count": 0,
+      "trial": 15
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G4",
+          "G3"
+        ],
+        "label_order": [
+          "directed",
+          "fragile",
+          "standard"
+        ],
+        "volume_weight": 1.2397640981349927,
+        "base_weight": 0.7748909270646309,
+        "height_weight": 592.7875427304158,
+        "center_points": true
+      },
+      "placed": 275,
+      "remaining": 25,
+      "remaining_counts": {
+        "G3": 25
+      },
+      "first_count": 225,
+      "second_count": 50,
+      "first_volume_utilization": 0.7552483358934972,
+      "second_volume_utilization": 0.5632360471070148,
+      "validation_error_count": 0,
+      "trial": 16
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G5",
+          "G4",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "fragile",
+          "directed",
+          "standard"
+        ],
+        "volume_weight": 1.053158754803046,
+        "base_weight": 0.7808182501570073,
+        "height_weight": 77.33615528368357,
+        "center_points": false
+      },
+      "placed": 272,
+      "remaining": 28,
+      "remaining_counts": {
+        "G3": 28
+      },
+      "first_count": 212,
+      "second_count": 60,
+      "first_volume_utilization": 0.8530570446304482,
+      "second_volume_utilization": 0.44348307679446586,
+      "validation_error_count": 0,
+      "trial": 17
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G2",
+          "G1",
+          "G5",
+          "G3",
+          "G4"
+        ],
+        "label_order": [
+          "standard",
+          "fragile",
+          "directed"
+        ],
+        "volume_weight": 1.464647224334095,
+        "base_weight": 0.53270060170302,
+        "height_weight": 198.53299942284525,
+        "center_points": true
+      },
+      "placed": 259,
+      "remaining": 41,
+      "remaining_counts": {
+        "G3": 10,
+        "G4": 31
+      },
+      "first_count": 225,
+      "second_count": 34,
+      "first_volume_utilization": 0.7552483358934972,
+      "second_volume_utilization": 0.2842304356458405,
+      "validation_error_count": 0,
+      "trial": 18
+    },
+    {
+      "gene": {
+        "goods_order": [
+          "G4",
+          "G5",
+          "G2",
+          "G1",
+          "G3"
+        ],
+        "label_order": [
+          "standard",
+          "directed",
+          "fragile"
+        ],
+        "volume_weight": 1.141690632653155,
+        "base_weight": 0.4854276696435629,
+        "height_weight": 464.3584572620877,
+        "center_points": true
+      },
+      "placed": 283,
+      "remaining": 17,
+      "remaining_counts": {
+        "G3": 17
+      },
+      "first_count": 138,
+      "second_count": 145,
+      "first_volume_utilization": 0.8620959904699207,
+      "second_volume_utilization": 0.5149064233988526,
+      "validation_error_count": 0,
+      "trial": 19
+    }
+  ]
+}

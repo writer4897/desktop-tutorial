@@ -1,0 +1,16 @@
+{
+  "source": "C:\\Users\\31034\\Desktop\\MathorCup_D代码包\\results\\problem1\\single_V2.csv",
+  "inserted_g3": 17,
+  "placed": 287,
+  "remaining_g3": 13,
+  "validation_error_count": 0,
+  "errors": [],
+  "stats": {
+    "item_count": 287,
+    "volume_cm3": 26915000,
+    "weight_kg": 3915,
+    "volume_utilization": 0.654067294934168,
+    "weight_utilization": 0.3915,
+    "combined_fullness": 0.49652691797366727
+  }
+}

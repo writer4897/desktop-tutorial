@@ -1,0 +1,102 @@
+{
+  "coordinate_system": "origin=right-rear-lower; x=rear_to_front; y=right_to_left; z=up",
+  "single": {
+    "V1": {
+      "strategy": "volume",
+      "stats": {
+        "item_count": 134,
+        "volume_cm3": 17116000,
+        "weight_kg": 2364,
+        "volume_utilization": 0.8942809074474644,
+        "weight_utilization": 0.394,
+        "combined_fullness": 0.5941123629789857
+      },
+      "goods_counts": {
+        "G4": 40,
+        "G5": 50,
+        "G1": 28,
+        "G2": 16
+      },
+      "remaining_count": 166,
+      "validation_errors": []
+    },
+    "V2": {
+      "strategy": "volume_slot_insert",
+      "stats": {
+        "item_count": 287,
+        "volume_cm3": 26915000,
+        "weight_kg": 3915,
+        "volume_utilization": 0.654067294934168,
+        "weight_utilization": 0.3915,
+        "combined_fullness": 0.49652691797366727
+      },
+      "goods_counts": {
+        "G4": 40,
+        "G5": 50,
+        "G1": 80,
+        "G2": 100,
+        "G3": 17
+      },
+      "remaining_count": 13,
+      "validation_errors": []
+    }
+  },
+  "all_one_type": {
+    "V1": {
+      "strategy": "inverse_platform_local_repair",
+      "stats": {
+        "vehicle_count": 2,
+        "total_items": 300,
+        "total_volume_cm3": 28735000,
+        "total_weight_kg": 4110,
+        "avg_volume_utilization": 0.7506766147319143,
+        "avg_weight_utilization": 0.3425,
+        "avg_combined_fullness": 0.5057706458927658,
+        "total_cost": 900
+      },
+      "vehicle_goods_counts": [
+        {
+          "G2": 50,
+          "G3": 15,
+          "G4": 20,
+          "G5": 25,
+          "G1": 40
+        },
+        {
+          "G2": 50,
+          "G3": 15,
+          "G4": 20,
+          "G5": 25,
+          "G1": 40
+        }
+      ],
+      "validation_errors": {}
+    },
+    "V2": {
+      "strategy": "slot_insert_remaining_vehicle",
+      "stats": {
+        "vehicle_count": 2,
+        "total_items": 300,
+        "total_volume_cm3": 28735000,
+        "total_weight_kg": 4110,
+        "avg_volume_utilization": 0.3491477562684993,
+        "avg_weight_utilization": 0.20550000000000002,
+        "avg_combined_fullness": 0.26295910250739973,
+        "total_cost": 1400
+      },
+      "vehicle_goods_counts": [
+        {
+          "G4": 40,
+          "G5": 50,
+          "G1": 80,
+          "G2": 100,
+          "G3": 17
+        },
+        {
+          "G3": 13
+        }
+      ],
+      "validation_errors": {}
+    }
+  }
+}

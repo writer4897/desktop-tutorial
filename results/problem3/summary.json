@@ -1,0 +1,203 @@
+{
+  "cost_sensitivity": [
+    {
+      "scenario": "车型1成本下降20%",
+      "V1_cost": 360,
+      "V2_cost": 700,
+      "only_V1_total": 1080,
+      "only_V2_total": 1400,
+      "mixed_total": 1060,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "车型1成本下降10%",
+      "V1_cost": 405,
+      "V2_cost": 700,
+      "only_V1_total": 1215,
+      "only_V2_total": 1400,
+      "mixed_total": 1105,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "基准",
+      "V1_cost": 450,
+      "V2_cost": 700,
+      "only_V1_total": 1350,
+      "only_V2_total": 1400,
+      "mixed_total": 1150,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "车型1成本上升10%",
+      "V1_cost": 495,
+      "V2_cost": 700,
+      "only_V1_total": 1485,
+      "only_V2_total": 1400,
+      "mixed_total": 1195,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "车型1成本上升20%",
+      "V1_cost": 540,
+      "V2_cost": 700,
+      "only_V1_total": 1620,
+      "only_V2_total": 1400,
+      "mixed_total": 1240,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "车型2成本下降20%",
+      "V1_cost": 450,
+      "V2_cost": 560,
+      "only_V1_total": 1350,
+      "only_V2_total": 1120,
+      "mixed_total": 1010,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "车型2成本下降10%",
+      "V1_cost": 450,
+      "V2_cost": 630,
+      "only_V1_total": 1350,
+      "only_V2_total": 1260,
+      "mixed_total": 1080,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "车型2成本上升10%",
+      "V1_cost": 450,
+      "V2_cost": 770,
+      "only_V1_total": 1350,
+      "only_V2_total": 1540,
+      "mixed_total": 1220,
+      "best_plan": "混合车型"
+    },
+    {
+      "scenario": "车型2成本上升20%",
+      "V1_cost": 450,
+      "V2_cost": 840,
+      "only_V1_total": 1350,
+      "only_V2_total": 1680,
+      "mixed_total": 1290,
+      "best_plan": "混合车型"
+    }
+  ],
+  "clearance_sensitivity": [
+    {
+      "top_clearance_cm": 0,
+      "fixed_coordinates_feasible": "是",
+      "avg_volume_utilization": 0.5805268774176338
+    },
+    {
+      "top_clearance_cm": 3,
+      "fixed_coordinates_feasible": "是",
+      "avg_volume_utilization": 0.5883183823850753
+    },
+    {
+      "top_clearance_cm": 6,
+      "fixed_coordinates_feasible": "否",
+      "avg_volume_utilization": 0.5963225007075503
+    },
+    {
+      "top_clearance_cm": 10,
+      "fixed_coordinates_feasible": "否",
+      "avg_volume_utilization": 0.6073407537618222
+    },
+    {
+      "top_clearance_cm": 15,
+      "fixed_coordinates_feasible": "否",
+      "avg_volume_utilization": 0.6217015434438782
+    },
+    {
+      "top_clearance_cm": 20,
+      "fixed_coordinates_feasible": "否",
+      "avg_volume_utilization": 0.6367602113309092
+    }
+  ],
+  "capacity_sensitivity": [
+    {
+      "capacity_multiplier": 0.2,
+      "fixed_coordinates_feasible": "否",
+      "avg_weight_utilization": 1.4215
+    },
+    {
+      "capacity_multiplier": 0.3,
+      "fixed_coordinates_feasible": "否",
+      "avg_weight_utilization": 0.9476666666666667
+    },
+    {
+      "capacity_multiplier": 0.4,
+      "fixed_coordinates_feasible": "是",
+      "avg_weight_utilization": 0.71075
+    },
+    {
+      "capacity_multiplier": 0.5,
+      "fixed_coordinates_feasible": "是",
+      "avg_weight_utilization": 0.5686
+    },
+    {
+      "capacity_multiplier": 0.75,
+      "fixed_coordinates_feasible": "是",
+      "avg_weight_utilization": 0.37906666666666666
+    },
+    {
+      "capacity_multiplier": 1.0,
+      "fixed_coordinates_feasible": "是",
+      "avg_weight_utilization": 0.2843
+    }
+  ],
+  "max_observed_support_pressure_kg_per_m2": 150.0,
+  "support_sensitivity": [
+    {
+      "load_limit_kg_per_m2": 100,
+      "max_observed_pressure": 150.0,
+      "fixed_coordinates_feasible": "否"
+    },
+    {
+      "load_limit_kg_per_m2": 150,
+      "max_observed_pressure": 150.0,
+      "fixed_coordinates_feasible": "是"
+    },
+    {
+      "load_limit_kg_per_m2": 200,
+      "max_observed_pressure": 150.0,
+      "fixed_coordinates_feasible": "是"
+    },
+    {
+      "load_limit_kg_per_m2": 300,
+      "max_observed_pressure": 150.0,
+      "fixed_coordinates_feasible": "是"
+    },
+    {
+      "load_limit_kg_per_m2": 400,
+      "max_observed_pressure": 150.0,
+      "fixed_coordinates_feasible": "是"
+    },
+    {
+      "load_limit_kg_per_m2": 500,
+      "max_observed_pressure": 150.0,
+      "fixed_coordinates_feasible": "是"
+    }
+  ],
+  "performance_summary": [
+    {
+      "task": "问题2坐标方案复验",
+      "scale": "300件/2辆",
+      "runtime_seconds": 0.0092,
+      "result": "约束错误0项"
+    },
+    {
+      "task": "附件2泛化验证",
+      "scale": "80件/16种车型",
+      "runtime_seconds": "约7.5",
+      "result": "最佳车型剩余0件"
+    },
+    {
+      "task": "问题2完整搜索",
+      "scale": "300件/2种车型/多排序策略",
+      "runtime_seconds": "约60--90",
+      "result": "生成2车、1150元可行方案"
+    }
+  ],
+  "attachment2_summary_used": true
+}
