@@ -1,5 +1,5 @@
 {
-  "source": "D:\\2026_Mathorcup_工作组\\D题\\附件2：验证数据集.xlsx",
+  "source": "附件2：验证数据集.xlsx",
   "assumption": "附件2未给出数量和重量；本验证将每种箱装产品设为10件、重量设为1kg，仅检验尺寸读取、车型泛化和空间装载能力。",
   "product_count": 8,
   "item_count": 80,
